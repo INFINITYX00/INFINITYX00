@@ -16,7 +16,7 @@
 💬 Ask me about **JavaScript**
 
 📫 How to reach me **scpwalker@hotmail.com**
-<br>
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
