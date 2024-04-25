@@ -51,7 +51,7 @@
 
 <br>
 
-<h3 align="left">Stats:</h3>
+<h3 align="left">My Stats:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infinityx00&show_icons=true&locale=en" alt="infinityx00" /></p>
 
