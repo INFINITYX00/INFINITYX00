@@ -30,10 +30,10 @@
 |          Portfolio | [Github](https://github.com/INFINITYX00/Portfolio)        | [Demo](https://stephenwalker.live/)         | Next, React, JavaScript Tailwind CSS     |
 |          Modal Window | [Github](https://github.com/INFINITYX00/Modal-window)        | [Demo](https://infinityx00.github.io/Modal-window/)         | JavaScript   |
 
-|               Project |                                                            |                                                          | Key Tech                 |
+|               Project |                                                            |                                                          | Tech                 |
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
 | Sprout - Parenthood App | [Github](https://github.com/INFINITYX00/Sprout) | [Demo]() | Next, React, JavaScript, SQL, Testing Libraries     |
-|          Project Hub | [Github](https://github.com/faseehahmed1/FrontEnd_Solo_HackStreetBoys)        | [Demo](https://connect-project-hub.netlify.app/)         | React, PostgreSQL, Various Testing Libraries     |
+|          Pig Game | [Github](https://github.com/INFINITYX00/Pig-Game)        | [Demo](https://infinityx00.github.io/Pig-Game/)         | JavaScript     |
 |          Portfolio | [Github](https://github.com/faseehahmed1/portfolio)        | [Demo](https://faseehahmed.netlify.app/)         | Next, Tailwind CSS     |
 |          Pomodoro Timer | [Github](https://github.com/faseehahmed1/pomodoro-timer)        | [Demo](https://pomodoro-app1.netlify.app/)         | Next, Tailwind CSS     |
 
