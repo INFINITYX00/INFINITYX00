@@ -25,7 +25,7 @@
 <h3 align="left">Projects:</h3>
 |               Project |                                                            |                                                          | Tech                 |
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
-| Sprout - Parenthood App | [Github](https://github.com/INFINITYX00/Sprout) | [Demo](TBC) | Next, React, JavaScript, SQL, Testing Libraries     |
+| Sprout - Parenthood App | [Github](https://github.com/INFINITYX00/Sprout) | [Demo]() | Next, React, JavaScript, SQL, Testing Libraries     |
 |          Pig Game | [Github](https://github.com/INFINITYX00/Pig-Game)        | [Demo](https://infinityx00.github.io/Pig-Game/)         | JavaScript    |
 |          Portfolio | [Github](https://github.com/INFINITYX00/Portfolio)        | [Demo](https://stephenwalker.live/)         | Next, React, JavaScript Tailwind CSS     |
 |          Modal Window | [Github](https://github.com/INFINITYX00/Modal-window)        | [Demo](https://infinityx00.github.io/Modal-window/)         | JavaScript   |
