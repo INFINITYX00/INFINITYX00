@@ -23,7 +23,7 @@
 <br>
 
 <h3 align="left">Projects:</h3>
-|               Project |                                                            |                                                          | Key Tech                 |
+|               Project |                                                            |                                                          | Tech                 |
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
 | Sprout - Parenthood App | [Github](https://github.com/INFINITYX00/Sprout) | [Demo](TBC) | Next, React, JavaScript, SQL, Testing Libraries     |
 |          Pig Game | [Github](https://github.com/INFINITYX00/Pig-Game)        | [Demo](https://infinityx00.github.io/Pig-Game/)         | JavaScript    |
@@ -32,7 +32,7 @@
 
 |               Project |                                                            |                                                          | Key Tech                 |
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
-| Cheers - Bar Finder | [Github](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code) | [Demo](https://bc13-final-project-front-end-beast-code-beast-code.vercel.app/) | Next, React, TypeScript, MongoDB, Various Testing Libraries     |
+| Sprout - Parenthood App | [Github](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code) | [Demo](https://bc13-final-project-front-end-beast-code-beast-code.vercel.app/) | Next, React, TypeScript, MongoDB, Various Testing Libraries     |
 |          Project Hub | [Github](https://github.com/faseehahmed1/FrontEnd_Solo_HackStreetBoys)        | [Demo](https://connect-project-hub.netlify.app/)         | React, PostgreSQL, Various Testing Libraries     |
 |          Portfolio | [Github](https://github.com/faseehahmed1/portfolio)        | [Demo](https://faseehahmed.netlify.app/)         | Next, Tailwind CSS     |
 |          Pomodoro Timer | [Github](https://github.com/faseehahmed1/pomodoro-timer)        | [Demo](https://pomodoro-app1.netlify.app/)         | Next, Tailwind CSS     |
