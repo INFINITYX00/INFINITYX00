@@ -41,5 +41,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infinityx00&show_icons=true&locale=en" alt="infinityx00" /></p>
 
+<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infinityx00&" alt="infinityx00" /></p>
 
