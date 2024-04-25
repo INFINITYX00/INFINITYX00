@@ -1,6 +1,6 @@
 ![5179056F-0C75-4260-9C11-7A48B8A81C9B](https://github.com/INFINITYX00/INFINITYX00/assets/145766101/3d7b6510-47e2-4df3-b32e-b5d85b66eebe)
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FFF+Tusj&center=true&width=380&height=50&duration=4000&pause=1000&lines=Hi%2C+my+name+is+Stephen;Full+Stack+Developer;Contact+me+to+collab+on+projects;I'm+open+to+learning" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FFF+Tusj&center=true&width=380&height=100&duration=4000&pause=1000&lines=Hi%2C+my+name+is+Stephen;Full+Stack+Developer;Contact+me+to+collab+on+projects;I'm+open+to+learning" alt="Typing SVG" /></a>
 
 <h3 align="left">About me:</h3>
 <p>My name is Stephen I'm a full stack developer. My passions......
@@ -17,6 +17,7 @@
 💬 Ask me about **JavaScript**
 
 📫 How to reach me **scpwalker@hotmail.com**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
