@@ -5,7 +5,7 @@
 
 <br>
 
-<h3 align="left">Projects:</h3>
+<h3 align="left">About me:</h3>
 <p>My name is Stephen I'm a full stack developer. My passions......
 </p>
 
@@ -17,7 +17,7 @@
 
 👯 I’m looking to collaborate on [Sprout](https://github.com/INFINITYX00/Sprout)
 
-👨‍💻 All of my projects are available at [https://stephenwalker.live/](https://stephenwalker.live/)
+👨‍💻 All of my projects are available (soon) at [https://stephenwalker.live/](https://stephenwalker.live/)
 
 💬 Ask me about **JavaScript**
 
