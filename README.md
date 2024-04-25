@@ -27,11 +27,11 @@
 | Project                | Repo                                                    | Page                                                      | Tech                             |
 | ---------------------- | ------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
 | Sprout - Parenthood App| [Github](https://github.com/INFINITYX00/Sprout)         | [Demo]()                                                  | Next, React, JavaScript, SQL, Testing Libraries |
-| Pig Game               | [Github](https://github.com/INFINITYX00/Pig-Game)       | [Demo](https://infinityx00.github.io/Pig-Game/)          | JavaScript                       |
-| Portfolio              | [Github](https://github.com/INFINITYX00/Portfolio)      | [Demo](https://stephenwalker.live/)                      | Next, React, Tailwind CSS        |
-| Modal Window           | [Github](https://github.com/INFINITYX00/Modal-window)   | [Demo](https://infinityx00.github.io/Modal-window/)      | JavaScript                       |
-| Portfolio              | [Github](https://github.com/INFINITYX00/Portfolio)      | [Demo](https://stephenwalker.live/)                      | Next, React, Tailwind CSS        |
-| Modal Window           | [Github](https://github.com/INFINITYX00/Modal-window)   | [Demo](https://infinityx00.github.io/Modal-window/)      | JavaScript                       |
+| Pig Game               | [Github](https://github.com/INFINITYX00/Pig-Game)       | [Demo](https://infinityx00.github.io/Pig-Game/)           | JavaScript                       |
+| Portfolio              | [Github](https://github.com/INFINITYX00/Portfolio)      | [Demo](https://stephenwalker.live/)                       | Next, React, Tailwind CSS        |
+| Modal Window           | [Github](https://github.com/INFINITYX00/Modal-window)   | [Demo](https://infinityx00.github.io/Modal-window/)       | JavaScript                       |
+| Guess My Number        | [Github](https://github.com/INFINITYX00/Guess-My-Number)| [Demo](https://infinityx00.github.io/Guess-My-Number/)    | JavaScript                       |
+| Airbnb Mobile Site     | [Github](https://github.com/INFINITYX00/AirBnB-mobile)  | [Demo](https://infinityx00.github.io/AirBnB-mobile/)      | HTML, CSS                        |
 
 
 
