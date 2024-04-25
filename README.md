@@ -21,7 +21,7 @@ View the README.md of each project for more details.
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Stephen+🚀;Full+Stack+Web+Developer+💻)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Stephen</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Stephen+🚀;Full+Stack+Web+Developer+💻)](https://git.io/typing-svg)</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/INFINITYX00/Portfolio)
