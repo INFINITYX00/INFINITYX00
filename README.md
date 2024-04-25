@@ -39,9 +39,11 @@
 | Airbnb Mobile Site     | [Github](https://github.com/INFINITYX00/AirBnB-mobile)  | [Demo](https://infinityx00.github.io/AirBnB-mobile/)      | HTML, CSS                        |
 
 <br>
+
 <p align="left">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=43629FF6&vCenter=true&random=false&width=435&height=32&lines=Connect:%3A" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=43629FF6&vCenter=true&random=false&width=435&height=32&lines=Projects%3A" alt="Typing SVG" /></a>
 </p>
+
 <p align="left">
 <a href="https://linkedin.com/in/stephen-m-walker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephen-m-walker" height="30" width="40" /></a>
 </p>
