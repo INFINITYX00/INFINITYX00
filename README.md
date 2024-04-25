@@ -1,13 +1,7 @@
 ![5179056F-0C75-4260-9C11-7A48B8A81C9B](https://github.com/INFINITYX00/INFINITYX00/assets/145766101/3d7b6510-47e2-4df3-b32e-b5d85b66eebe)
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FFF+Tusj&center=true&width=380&height=100&duration=4000&pause=1000&lines=Hi%2C+My+name+is+Peter.;Hit+me+up+for+Devops+projects.;I'm+open+to+learning." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FFF+Tusj&center=true&width=380&height=50&duration=4000&pause=1000&lines=Hi%2C+My+name+is+Peter.;Hit+me+up+for+Devops+projects.;I'm+open+to+learning." alt="Typing SVG" /></a>
   </p>
-
-<h1 align="center">Hi 👋, I'm Stephen</h1>
-<h3 align="center">Full Stack Developer</h3>
-<br>
-(https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Stephen+🚀;Full+Stack+Web+Developer+💻)](https://git.io/typing-svg)
-
 🔭 I’m currently working on [Portfolio](https://github.com/INFINITYX00/Portfolio)
 
 🌱 I’m currently learning **React, TypeScript**
