@@ -2,3 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Stephen!;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
+
+
+
+
+
+
+
+📁 Projects
+View the README.md of each project for more details.
+
+
+Project			 Tech
