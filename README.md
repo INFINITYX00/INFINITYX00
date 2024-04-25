@@ -7,7 +7,7 @@
 fsesdfsd
 fsdfsfs
 </p>
- - 🔭 I’m currently working on [Portfolio](https://github.com/INFINITYX00/Portfolio)
+- 🔭 I’m currently working on [Portfolio](https://github.com/INFINITYX00/Portfolio)
 
 - 🌱 I’m currently learning **React, TypeScript**
 
