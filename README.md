@@ -36,10 +36,6 @@
 | Guess My Number        | [Github](https://github.com/INFINITYX00/Guess-My-Number)| [Demo](https://infinityx00.github.io/Guess-My-Number/)    | JavaScript                       |
 | Airbnb Mobile Site     | [Github](https://github.com/INFINITYX00/AirBnB-mobile)  | [Demo](https://infinityx00.github.io/AirBnB-mobile/)      | HTML, CSS                        |
 
-
-
-
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
