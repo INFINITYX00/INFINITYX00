@@ -24,7 +24,7 @@
 
 <h3 align="left">Projects:</h3>
 
-|Project                |Repo                                                            |                                                          | Tech                 |
+|Project                |Repo                                                            |Page                                                          | Tech                 |
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
 | Sprout - Parenthood App | [Github](https://github.com/INFINITYX00/Sprout) | [Demo]() | Next, React, JavaScript, SQL, Testing Libraries     |
 |          Pig Game | [Github](https://github.com/INFINITYX00/Pig-Game)        | [Demo](https://infinityx00.github.io/Pig-Game/)         | JavaScript     |
