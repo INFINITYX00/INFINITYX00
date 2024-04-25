@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
 <h3 align="center">Full Stack Developer</h3>
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Stephen+🚀;Full+Stack+Web+Developer+💻)](https://git.io/typing-svg)
+(https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Stephen+🚀;Full+Stack+Web+Developer+💻)](https://git.io/typing-svg)
 
 🔭 I’m currently working on [Portfolio](https://github.com/INFINITYX00/Portfolio)
 
