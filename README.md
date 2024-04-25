@@ -1,13 +1,7 @@
 ![5179056F-0C75-4260-9C11-7A48B8A81C9B](https://github.com/INFINITYX00/INFINITYX00/assets/145766101/3d7b6510-47e2-4df3-b32e-b5d85b66eebe)
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Stephen+🚀;Full+Stack+Web+Developer+💻)](https://git.io/typing-svg)
-
 <h1 align="center">Hi 👋, I'm Stephen</h1>
 <h3 align="center">Full Stack Developer</h3>
-
-
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/INFINITYX00/Portfolio)
 
@@ -20,7 +14,6 @@
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **scpwalker@hotmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,8 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infinityx00&show_icons=true&locale=en" alt="infinityx00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infinityx00&" alt="infinityx00" /></p>
-
-
 
 
 
