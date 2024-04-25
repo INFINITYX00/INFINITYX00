@@ -3,18 +3,19 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/INFINITYX00/Portfolio)
+🔭 I’m currently working on [Portfolio](https://github.com/INFINITYX00/Portfolio)
 
-- 🌱 I’m currently learning **React, TypeScript**
+🌱 I’m currently learning **React, TypeScript**
 
-- 👯 I’m looking to collaborate on [Sprout](https://github.com/INFINITYX00/Sprout)
+👯 I’m looking to collaborate on [Sprout](https://github.com/INFINITYX00/Sprout)
 
-- 👨‍💻 All of my projects are available at [https://stephenwalker.live/](https://stephenwalker.live/)
+👨‍💻 All of my projects are available at [https://stephenwalker.live/](https://stephenwalker.live/)
 
-- 💬 Ask me about **JavaScript**
+💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **scpwalker@hotmail.com**
-- <br>
+📫 How to reach me **scpwalker@hotmail.com**
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
