@@ -30,6 +30,12 @@
 |          Portfolio | [Github](https://github.com/INFINITYX00/Portfolio)        | [Demo](https://stephenwalker.live/)         | Next, React, JavaScript Tailwind CSS     |
 |          Modal Window | [Github](https://github.com/INFINITYX00/Modal-window)        | [Demo](https://infinityx00.github.io/Modal-window/)         | JavaScript   |
 
+|               Project |                                                            |                                                          | Key Tech                 |
+| --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
+| Cheers - Bar Finder | [Github](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code) | [Demo](https://bc13-final-project-front-end-beast-code-beast-code.vercel.app/) | Next, React, TypeScript, MongoDB, Various Testing Libraries     |
+|          Project Hub | [Github](https://github.com/faseehahmed1/FrontEnd_Solo_HackStreetBoys)        | [Demo](https://connect-project-hub.netlify.app/)         | React, PostgreSQL, Various Testing Libraries     |
+|          Portfolio | [Github](https://github.com/faseehahmed1/portfolio)        | [Demo](https://faseehahmed.netlify.app/)         | Next, Tailwind CSS     |
+|          Pomodoro Timer | [Github](https://github.com/faseehahmed1/pomodoro-timer)        | [Demo](https://pomodoro-app1.netlify.app/)         | Next, Tailwind CSS     |
 
 
 <br>
