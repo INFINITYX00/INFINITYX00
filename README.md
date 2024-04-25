@@ -34,7 +34,7 @@
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
 | Sprout - Parenthood App | [Github](https://github.com/INFINITYX00/Sprout) | [Demo]() | Next, React, JavaScript, SQL, Testing Libraries     |
 |          Pig Game | [Github](https://github.com/INFINITYX00/Pig-Game)        | [Demo](https://infinityx00.github.io/Pig-Game/)         | JavaScript     |
-|          Portfolio | [Github](https://github.com/faseehahmed1/portfolio)        | [Demo](https://faseehahmed.netlify.app/)         | Next, Tailwind CSS     |
+|          Portfolio | [Github](https://github.com/INFINITYX00/Portfolio)        | [Demo](https://stephenwalker.live/)         | Next, React, Tailwind CSS     |
 |          Pomodoro Timer | [Github](https://github.com/faseehahmed1/pomodoro-timer)        | [Demo](https://pomodoro-app1.netlify.app/)         | Next, Tailwind CSS     |
 
 
