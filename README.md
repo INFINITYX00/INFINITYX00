@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Stephen</h1>
 <h3 align="center">Full Stack Developer</h3>
+<br>
+
 
 🔭 I’m currently working on [Portfolio](https://github.com/INFINITYX00/Portfolio)
 
