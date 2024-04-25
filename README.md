@@ -57,7 +57,9 @@
 
 <br>
 
-<h3 align="left">My Stats:</h3>
+<p align="left">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=43629FF6&vCenter=true&random=false&width=435&height=32&lines=My+Stats:%3A" alt="Typing SVG" /></a>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infinityx00&show_icons=true&locale=en" alt="infinityx00" /></p>
 
