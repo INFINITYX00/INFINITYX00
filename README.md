@@ -40,6 +40,9 @@
 
 <br>
 <p align="left">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=43629FF6&vCenter=true&random=false&width=435&height=32&lines=Projects%3A" alt="Typing SVG" /></a>
+</p>
+<p align="left">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=43629FF6&vCenter=true&random=false&width=435&height=32&lines=Connect+with+me%3A" alt="Typing SVG" /></a>
 </p>
 <p align="left">
