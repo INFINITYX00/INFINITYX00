@@ -2,9 +2,6 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=628FE7F6&background=A978FF00&random=false&width=780&height=100&lines=Hi%2C+My+Name+is+Stephen;Full+Stack+Developer;Contact+Me+to+Collab+on+Projects;Eager+to+Learn+New+Tech" alt="Typing SVG" /></a>
 </p>
-
-<br>
-
 <h3 align="left">About me:</h3>
 <p>My name is Stephen I'm a full stack developer. My passions......
 </p>
