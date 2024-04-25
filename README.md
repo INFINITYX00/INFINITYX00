@@ -6,6 +6,8 @@
 <p>My name is Stephen I'm a full stack developer. My passions......
 </p>
 
+<br>
+
 🔭 I’m currently working on [Portfolio](https://github.com/INFINITYX00/Portfolio)
 
 🌱 I’m currently learning **React, TypeScript**
