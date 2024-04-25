@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Sprout](https://github.com/INFINITYX00/Sprout)
 
-- 👨‍💻 All of my projects are available at [stephenwalker.live](stephenwalker.live)
+- 👨‍💻 All of my projects are available at [https://stephenwalker.live/](https://stephenwalker.live/)
 
 - 💬 Ask me about **JavaScript**
 
