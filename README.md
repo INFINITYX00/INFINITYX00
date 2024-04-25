@@ -3,21 +3,20 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FFF+Tusj&center=true&width=380&height=50&duration=4000&pause=1000&lines=Hi%2C+my+name+is+Stephen;Full+Stack+Developer;Contact+me+to+collab+on+projects;I'm+open+to+learning" alt="Typing SVG" /></a>
 
 <h3 align="left">About me:</h3>
-<p>My name is Stephen
-fsesdfsd
-fsdfsfs
+<p>My name is Stephen I'm a full stack developer. My passions......
 </p>
-- 🔭 I’m currently working on [Portfolio](https://github.com/INFINITYX00/Portfolio)
 
-- 🌱 I’m currently learning **React, TypeScript**
+🔭 I’m currently working on [Portfolio](https://github.com/INFINITYX00/Portfolio)
 
-- 👯 I’m looking to collaborate on [Sprout](https://github.com/INFINITYX00/Sprout)
+🌱 I’m currently learning **React, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://stephenwalker.live/](https://stephenwalker.live/)
+👯 I’m looking to collaborate on [Sprout](https://github.com/INFINITYX00/Sprout)
 
-- 💬 Ask me about **JavaScript**
+👨‍💻 All of my projects are available at [https://stephenwalker.live/](https://stephenwalker.live/)
 
-- 📫 How to reach me **scpwalker@hotmail.com**
+💬 Ask me about **JavaScript**
+
+📫 How to reach me **scpwalker@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
