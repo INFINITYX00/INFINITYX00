@@ -25,7 +25,9 @@
 
 <br>
 
-<h3 align="left">Projects:</h3>
+<p align="left">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=10000&color=43629FF6&vCenter=true&random=false&width=435&height=32&lines=Projects%3A" alt="Typing SVG" /></a>
+</p>
 
 | Project                | Repo                                                    | Page                                                      | Tech                             |
 | ---------------------- | ------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
