@@ -32,7 +32,7 @@
 
 |               Project |                                                            |                                                          | Key Tech                 |
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
-| Sprout - Parenthood App | [Github](https://github.com/INFINITYX00/Sprout) | [Demo]() | Next, React, TypeScript, MongoDB, Various Testing Libraries     |
+| Sprout - Parenthood App | [Github](https://github.com/INFINITYX00/Sprout) | [Demo]() | Next, React, JavaScript, SQL, Testing Libraries     |
 |          Project Hub | [Github](https://github.com/faseehahmed1/FrontEnd_Solo_HackStreetBoys)        | [Demo](https://connect-project-hub.netlify.app/)         | React, PostgreSQL, Various Testing Libraries     |
 |          Portfolio | [Github](https://github.com/faseehahmed1/portfolio)        | [Demo](https://faseehahmed.netlify.app/)         | Next, Tailwind CSS     |
 |          Pomodoro Timer | [Github](https://github.com/faseehahmed1/pomodoro-timer)        | [Demo](https://pomodoro-app1.netlify.app/)         | Next, Tailwind CSS     |
