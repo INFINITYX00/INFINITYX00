@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FFF+Tusj&center=true&width=380&height=50&duration=4000&pause=1000&lines=Hi%2C+my+name+is+Stephen;Full+Stack+Developer;Contact+me+to+collab+on+projects;I'm+open+to+learning" alt="Typing SVG" /></a>
 
-<h3 align="left">About me</h3>
+<h3 align="left">About me:</h3>
 <p>My name is Stephen I'm a full stack developer. My passions......
 </p>
 
@@ -22,7 +22,7 @@
 
 <br>
 
-<h3 align="left">💼 Projects</h3>
+<h3 align="left">Projects:</h3>
 
 <br>
 
