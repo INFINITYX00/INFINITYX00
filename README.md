@@ -1,4 +1,5 @@
-![image](https://github.com/INFINITYX00/INFINITYX00/assets/145766101/abf9eda7-113e-48c3-9078-e25c565ca4b7)
+![github-header-image (2)](https://github.com/INFINITYX00/INFINITYX00/assets/145766101/b87256d7-8f3d-4be2-8d4f-3e0dc2cb4fb4)
+
 
 <p align="left">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=628FE7F6&background=A978FF00&random=false&width=600&height=60&lines=Hi%2C+My+Name+is+Stephen;Full+Stack+Developer;Contact+Me+to+Collab+on+Projects;Eager+to+Learn+New+Tech" alt="Typing SVG" /></a>
