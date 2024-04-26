@@ -35,11 +35,11 @@
 | ---------------------- | ------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
 | Sprout - Parenthood App (IN DEVELOPMENT)| [Github](https://github.com/INFINITYX00/Sprout)         | [Demo]()                                                  | Next, React, JavaScript, SQL, Testing Libraries |
 | Pig Game               | [Github](https://github.com/INFINITYX00/Pig-Game)       | [Demo](https://infinityx00.github.io/Pig-Game/)           | JavaScript                       |
-| Portfolio              | [Github](https://github.com/INFINITYX00/Portfolio)      | [Demo](https://stephenwalker.live/)                       | Next, React, Tailwind CSS        |
+| Portfolio (IN DEVELOPMENT)              | [Github](https://github.com/INFINITYX00/Portfolio)      | [Demo](https://stephenwalker.live/)                       | Next, React, Tailwind CSS        |
 | Modal Window           | [Github](https://github.com/INFINITYX00/Modal-window)   | [Demo](https://infinityx00.github.io/Modal-window/)       | JavaScript                       |
 | Guess My Number        | [Github](https://github.com/INFINITYX00/Guess-My-Number)| [Demo](https://infinityx00.github.io/Guess-My-Number/)    | JavaScript                       |
 | Airbnb Mobile Site     | [Github](https://github.com/INFINITYX00/AirBnB-mobile)  | [Demo](https://infinityx00.github.io/AirBnB-mobile/)      | HTML, CSS                        |
-| TV Show Search         | [Github](https://github.com/INFINITYX00/AirBnB-mobile)  | [Demo](https://infinityx00.github.io/AirBnB-mobile/)      | HTML, CSS                        |
+| TV Show Search         | [Github](https://github.com/INFINITYX00/TVShowSearch )  | [Demo](https://github.com/INFINITYX00/TVShowSearch )      | HTML, JavaScript                 |
 | Airbnb Mobile Site     | [Github](https://github.com/INFINITYX00/AirBnB-mobile)  | [Demo](https://infinityx00.github.io/AirBnB-mobile/)      | HTML, CSS                        |
 <br>
 
