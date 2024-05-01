@@ -35,9 +35,10 @@ Driven by curiosity and persistence, I embrace the journey of mastering new conc
 
 | Project                | Repo                                                    | Page                                                      | Tech                             |
 | ---------------------- | ------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
-| Sprout - Parenthood App (IN DEVELOPMENT)| [Github](https://github.com/INFINITYX00/Sprout)         | [Demo]()                                                  | Next, React, JavaScript, SQL, Testing Libraries |
+| Eslando - Digital Product Passport      | [github](https://github.com/INFINITYX00/eslando)  | [Demo](https://eslando.vercel.app/)        | Next.js, React, JavaScript, SQL, Testing Libraries                          |
+| Sprout - Parenthood App (IN DEVELOPMENT)| [Github](https://github.com/INFINITYX00/Sprout)         | [Demo]()                                                  | Next.js, React, JavaScript, SQL, Testing Libraries |
 | Pig Game               | [Github](https://github.com/INFINITYX00/Pig-Game)       | [Demo](https://infinityx00.github.io/Pig-Game/)           | JavaScript                       |
-| Portfolio (IN DEVELOPMENT)              | [Github](https://github.com/INFINITYX00/Portfolio)      | [Demo](https://stephenwalker.live/)                       | Next, React, Tailwind CSS        |
+| Portfolio (IN DEVELOPMENT)              | [Github](https://github.com/INFINITYX00/Portfolio)      | [Demo](https://stephenwalker.live/)                       | Next.js, React, Tailwind CSS        |
 | Modal Window           | [Github](https://github.com/INFINITYX00/Modal-window)   | [Demo](https://infinityx00.github.io/Modal-window/)       | JavaScript                       |
 | Guess My Number        | [Github](https://github.com/INFINITYX00/Guess-My-Number)| [Demo](https://infinityx00.github.io/Guess-My-Number/)    | JavaScript                       |
 | Airbnb Mobile Site     | [Github](https://github.com/INFINITYX00/AirBnB-mobile)  | [Demo](https://infinityx00.github.io/AirBnB-mobile/)      | HTML, CSS                        |
