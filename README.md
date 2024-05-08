@@ -33,7 +33,7 @@ Driven by curiosity and persistence, I embrace the journey of mastering new conc
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=43629FF6&vCenter=true&random=false&width=435&height=32&lines=Projects%3A" alt="Typing SVG" /></a>
 </p>
 
-| Project                | Repo                                                    | Page                                                      | Tech                             |
+| Project                | Repo                                                    | Page                                                      | Tech Stack                       |
 | ---------------------- | ------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
 | Eslando - Digital Product Passport (IN DEVELOPMENT)     | [Github](https://github.com/INFINITYX00/eslando)  | [Demo](https://eslando.vercel.app/)        | Next.js, React, JavaScript, SQL, Testing Libraries                          |
 | Sprout - Parenthood App (IN DEVELOPMENT)| [Github](https://github.com/INFINITYX00/Sprout)         | [Demo]()                                                  | Next.js, React, JavaScript, SQL, Testing Libraries |
