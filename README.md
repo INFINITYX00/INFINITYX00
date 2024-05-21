@@ -35,8 +35,8 @@ Driven by curiosity and persistence, I embrace the journey of mastering new conc
 
 | Project                | Repo                                                    | Page                                                      | Tech Stack                       |
 | ---------------------- | ------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
-| Portfolio (IN DEVELOPMENT)              | [Github](https://github.com/INFINITYX00/Portfolio)      | [Demo](https://stephenwalker.live/)                       | Next.js, React, Tailwind CSS        |
-| Eslando - Digital Product Passport (IN DEVELOPMENT)     | [Github](https://github.com/INFINITYX00/eslando)  | [Demo](https://eslando.vercel.app/?product=0)        | Next.js, React, JavaScript, SQL, Testing Libraries                          |
+| Portfolio (IN DEVELOPMENT)              | [Github](https://github.com/INFINITYX00/Portfolio)      | [Demo](https://stephenwalker.live/)                       | Next.js, React, TypeScript Tailwind CSS, Sentry        |
+| Eslando - Digital Product Passport (IN DEVELOPMENT)     | [Github](https://github.com/INFINITYX00/eslando)  | [Demo](https://eslando.vercel.app/?product=0)        | Next.js, React, JavaScript, Testing Libraries                          |
 | Sprout - Parenthood App (IN DEVELOPMENT)| [Github](https://github.com/INFINITYX00/Sprout)         | [Demo]()                                                  | Next.js, React, JavaScript, SQL, Testing Libraries |
 | Pig Game               | [Github](https://github.com/INFINITYX00/Pig-Game)       | [Demo](https://infinityx00.github.io/Pig-Game/)           | JavaScript                       |
 | Modal Window           | [Github](https://github.com/INFINITYX00/Modal-window)   | [Demo](https://infinityx00.github.io/Modal-window/)       | JavaScript                       |
@@ -73,16 +73,4 @@ Driven by curiosity and persistence, I embrace the journey of mastering new conc
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infinityx00&" alt="infinityx00" /></p>
 
-| Project                | Repo                                                    | Page                                                      | Tech Stack                       |
-| ---------------------- | ------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
-| Eslando - Digital Product Passport (IN DEVELOPMENT)     | [Github](https://github.com/INFINITYX00/eslando)  | [Demo](https://eslando.vercel.app/?product=0)        | Next.js, React, JavaScript, SQL, Testing Libraries                          |
-| Sprout - Parenthood App (IN DEVELOPMENT)| [Github](https://github.com/INFINITYX00/Sprout)         | [Demo]()                                                  | Next.js, React, JavaScript, SQL, Testing Libraries |
-| Pig Game               | [Github](https://github.com/INFINITYX00/Pig-Game)       | [Demo](https://infinityx00.github.io/Pig-Game/)           | JavaScript                       |
-| Portfolio (IN DEVELOPMENT)              | [Github](https://github.com/INFINITYX00/Portfolio)      | [Demo](https://stephenwalker.live/)                       | Next.js, React, Tailwind CSS        |
-| Modal Window           | [Github](https://github.com/INFINITYX00/Modal-window)   | [Demo](https://infinityx00.github.io/Modal-window/)       | JavaScript                       |
-| Guess My Number        | [Github](https://github.com/INFINITYX00/Guess-My-Number)| [Demo](https://infinityx00.github.io/Guess-My-Number/)    | JavaScript                       |
-| Airbnb Mobile Site     | [Github](https://github.com/INFINITYX00/AirBnB-mobile)  | [Demo](https://infinityx00.github.io/AirBnB-mobile/)      | HTML, CSS                        |
-| TV Show Search         | [Github](https://github.com/INFINITYX00/TVShowSearch )  | [Demo](https://github.com/INFINITYX00/TVShowSearch )      | HTML, JavaScript                 |
-| ASTRO IMPACT GAME      | [SCRATCH](https://scratch.mit.edu/projects/881488072 )  | [Demo](https://scratch.mit.edu/projects/881488072)        | SCRATCH                          |
-<br>
 
