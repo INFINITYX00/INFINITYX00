@@ -35,8 +35,8 @@ Driven by curiosity and persistence, I embrace the journey of mastering new conc
 
 | Project                | Repo                                                    | Page                                                      | Tech Stack                       |
 | ---------------------- | ------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
-| Portfolio (IN DEVELOPMENT)              | [Github](https://github.com/INFINITYX00/Portfolio)      | [Demo](https://stephenwalker.live/)                       | Next.js, React, TypeScript, Tailwind CSS, Sentry        |
-| Eslando - Digital Product Passport (IN DEVELOPMENT)     | [Github](https://github.com/INFINITYX00/eslando)  | [Demo](https://eslando.vercel.app/?product=0)        | Next.js, React, JavaScript, Testing Libraries                          |
+| Portfolio               | [Github](https://github.com/INFINITYX00/Portfolio)      | [Demo](https://stephenwalker.live/)                       | Next.js, React, TypeScript, Tailwind CSS, Sentry        |
+| Eslando - Digital Product Passport      | [Github](https://github.com/INFINITYX00/eslando)  | [Demo](https://eslando.vercel.app/?product=0)        | Next.js, React, JavaScript, Testing Libraries                          |
 | Sprout - Parenthood App (IN DEVELOPMENT)| [Github](https://github.com/INFINITYX00/Sprout)         | [Demo]()                                                  | Next.js, React, JavaScript, SQL, Testing Libraries |
 | Pig Game               | [Github](https://github.com/INFINITYX00/Pig-Game)       | [Demo](https://infinityx00.github.io/Pig-Game/)           | JavaScript                       |
 | Modal Window           | [Github](https://github.com/INFINITYX00/Modal-window)   | [Demo](https://infinityx00.github.io/Modal-window/)       | JavaScript                       |
