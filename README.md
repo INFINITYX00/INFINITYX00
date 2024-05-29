@@ -19,9 +19,9 @@ Driven by curiosity and persistence, I embrace the journey of mastering new conc
 
 🌱 I’m currently learning **React, TypeScript**
 
-👯 I’m looking to collaborate on [Sprout](https://github.com/INFINITYX00/Sprout)
+👯 I’m looking to collaborate on [NexID](https://github.com/INFINITYX00/NexID)
 
-👨‍💻 All of my projects are available (soon) at [https://stephenwalker.live/](https://stephenwalker.live/)
+👨‍💻 A selection of my projects are available at [https://stephenwalker.live/](https://stephenwalker.live/)
 
 💬 Ask me about **JavaScript**
 
