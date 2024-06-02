@@ -15,7 +15,7 @@ Driven by curiosity and persistence, I embrace the journey of mastering new conc
 
 <br>
 
-🔭 I’m currently working on [Portfolio](https://github.com/INFINITYX00/Portfolio)
+🔭 Visit my [Portfolio](https://github.com/INFINITYX00/Portfolio)
 
 🌱 I’m currently learning **React, TypeScript**
 
