@@ -15,7 +15,7 @@ Driven by curiosity and persistence, I embrace the journey of mastering new conc
 
 <br>
 
-🔭 Please visit my [Portfolio](https://stephenwalker.live)
+🔭 To learn more check out my [Portfolio site](https://stephenwalker.live)
 
 🌱 I’m currently learning **React, TypeScript**
 
