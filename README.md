@@ -11,8 +11,7 @@
 <p>I'm a Full Stack Developer with experience building web applications, SaaS products, and client projects. My background spans frontend development, UI/UX design, product development, and modern JavaScript frameworks.
 
 I enjoy building practical solutions that solve real-world problems, from business applications and SaaS platforms to customer-facing websites. I'm currently expanding my knowledge of full stack development, software architecture, and scalable application design.
-</p>
-<p>
+
 **Current Focus**
 Full Stack Development
 React & TypeScript
@@ -21,6 +20,7 @@ Product Development
 SaaS Applications
 AI-Assisted Development
 </p>
+
 <br>
 
 🔭 To learn more check out my [Portfolio site](https://stephenwalker.live)
