@@ -13,6 +13,7 @@
 I enjoy building practical solutions that solve real-world problems, from business applications and SaaS platforms to customer-facing websites. I'm currently expanding my knowledge of full stack development, software architecture, and scalable application design.
 
 **Current Focus**
+
 Full Stack Development
 React & TypeScript
 Next.js
