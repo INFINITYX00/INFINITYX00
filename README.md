@@ -2,15 +2,15 @@
 
 
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=628FE7F6&background=A978FF00&random=false&width=600&height=60&lines=Hi%2C+My+Name+is+Stephen;Full+Stack+Developer;Contact+Me+to+Collab+on+Projects;Eager+to+Learn+New+Tech" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=628FE7F6&background=A978FF00&random=false&width=600&height=60&lines=Hi%2C+My+Name+is+Stephen;Full+Stack+Developer;Building+SaaS+Products+&+Web+Applications;" alt="Typing SVG" /></a>
 </p>
 <p align="left">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=43629FF6&vCenter=true&random=false&width=435&height=32&lines=About+me%3A" alt="Typing SVG" /></a>
 </p>
 
-<p>I'm a Full Stack Developer, eager to build solutions and tackle challenges in the tech industry. I'm passionate about learning and excited to pursue a career in technology.
+<p>I'm a Full Stack Developer with experience building web applications, SaaS products, and client projects. My background spans frontend development, UI/UX design, product development, and modern JavaScript frameworks.
 
-Driven by curiosity and persistence, I embrace the journey of mastering new concepts and technologies. With a commitment to making a positive impact, I thrive on innovation, teamwork, and the endless possibilities that the tech world offers.
+I enjoy building practical solutions that solve real-world problems, from business applications and SaaS platforms to customer-facing websites. I'm currently expanding my knowledge of full stack development, software architecture, and scalable application design.
 </p>
 
 <br>
