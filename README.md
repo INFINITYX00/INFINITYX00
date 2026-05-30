@@ -16,15 +16,15 @@ I enjoy building practical solutions that solve real-world problems, from busine
 
 - Full Stack Development
 
-React & TypeScript
+- React & TypeScript
 
-Next.js
+- Next.js
 
-Product Development
+- Product Development
 
-SaaS Applications
+- SaaS Applications
 
-AI-Assisted Development
+- AI-Assisted Development
 </p>
 
 <br>
