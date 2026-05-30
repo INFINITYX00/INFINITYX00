@@ -14,7 +14,7 @@ I enjoy building practical solutions that solve real-world problems, from busine
 
 **Current Focus**
 
-Full Stack Development
+- Full Stack Development
 
 React & TypeScript
 
