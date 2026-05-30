@@ -8,38 +8,17 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=43629FF6&vCenter=true&random=false&width=435&height=32&lines=About+me%3A" alt="Typing SVG" /></a>
 </p>
 
-<p>I'm a Full Stack Developer with experience building web applications, SaaS products, and client projects. My background spans frontend development, UI/UX design, product development, and modern JavaScript frameworks.
+<p>I'm a Full Stack Developer with experience building web applications, SaaS products and client projects. My background spans frontend development, UI/UX design, product development, and modern JavaScript frameworks.
 
 I enjoy building practical solutions that solve real-world problems, from business applications and SaaS platforms to customer-facing websites. I'm currently expanding my knowledge of full stack development, software architecture, and scalable application design.
 
-**Current Focus**
-
-- Full Stack Development
-
-- React & TypeScript
-
-- Next.js
-
-- Product Development
-
-- SaaS Applications
-
-- AI-Assisted Development
-</p>
-
 <br>
 
-🔭 To learn more check out my [Portfolio site](https://stephenwalker.live)
+🚀 Building web applications, SaaS products and client solutions through Polaris Studio.
 
-🌱 I’m currently learning **React, TypeScript**
+👨‍💻 Portfolio: https://www.polaristudio.co.uk/
 
-👯 I’m looking to collaborate on [NexID](https://github.com/INFINITYX00/NexID)
-
-👨‍💻 A selection of my projects are available at [https://stephenwalker.live/](https://stephenwalker.live/)
-
-💬 Ask me about **JavaScript**
-
-📫 How to reach me **scpwalker@hotmail.com**
+📫 Contact: stephen@polaristudio.co.uk
 
 <br>
 
