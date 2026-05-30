@@ -15,10 +15,15 @@ I enjoy building practical solutions that solve real-world problems, from busine
 **Current Focus**
 
 Full Stack Development
+
 React & TypeScript
+
 Next.js
+
 Product Development
+
 SaaS Applications
+
 AI-Assisted Development
 </p>
 
