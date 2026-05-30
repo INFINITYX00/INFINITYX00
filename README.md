@@ -30,10 +30,7 @@ I enjoy building practical solutions that solve real-world problems, from busine
 | ---------------------- | ------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
 | Portfolio Website               | [Github](https://github.com/INFINITYX00/Portfolio)      | [Demo](https://stephenwalker.live/)                       | Next.js, React, TypeScript, Tailwind CSS, Sentry        |
 | Eslando - Digital Product Passport      | [Github](https://github.com/INFINITYX00/eslando)  | [Demo](https://eslando.vercel.app/?product=0)        | Next.js, React, JavaScript, Testing Libraries                          |
-| NexID - Digital Product Passport (IN DEVELOPMENT)| [Github](https://github.com/INFINITYX00/NexID)        | [Demo]()                                                  | Next.js, React, JavaScript, SQL, Sentry |
-| Sprout - Parenthood App (IN DEVELOPMENT)| [Github](https://github.com/INFINITYX00/Sprout)         | [Demo]()                                                  | Next.js, React, JavaScript, SQL, Testing Libraries |
-| Airbnb Mobile Site     | [Github](https://github.com/INFINITYX00/AirBnB-mobile)  | [Demo](https://infinityx00.github.io/AirBnB-mobile/)      | HTML, CSS                        |
-| Pig Game               | [Github](https://github.com/INFINITYX00/Pig-Game)       | [Demo](https://infinityx00.github.io/Pig-Game/)           | JavaScript                       |                      |
+| Airbnb Mobile Site     | [Github](https://github.com/INFINITYX00/AirBnB-mobile)  | [Demo](https://infinityx00.github.io/AirBnB-mobile/)      | HTML, CSS                        |                       |                      |
 | ASTRO IMPACT GAME      | [SCRATCH](https://scratch.mit.edu/projects/881488072 )  | [Demo](https://scratch.mit.edu/projects/881488072)        | SCRATCH                          |
 <br>
 
