@@ -28,6 +28,7 @@ I enjoy building practical solutions that solve real-world problems, from busine
 
 | Project                | Repo                                                    | Page                                                      | Tech Stack                       |
 | ---------------------- | ------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
+| Langee               | [Github]Private      | [Demo](https://stephenwalker.live/)                       | Next.js, React, TypeScript, Tailwind CSS, Sentry        |
 | Portfolio Website               | [Github](https://github.com/INFINITYX00/Portfolio)      | [Demo](https://stephenwalker.live/)                       | Next.js, React, TypeScript, Tailwind CSS, Sentry        |
 | Eslando - Digital Product Passport      | [Github](https://github.com/INFINITYX00/eslando)  | [Demo](https://eslando.vercel.app/?product=0)        | Next.js, React, JavaScript, Testing Libraries                          |
 | Airbnb Mobile Site     | [Github](https://github.com/INFINITYX00/AirBnB-mobile)  | [Demo](https://infinityx00.github.io/AirBnB-mobile/)      | HTML, CSS                        |                       |                      |
